@@ -27,7 +27,7 @@ Las siguientes librerías:
 pip install pandas matplotlib pillow numpy
 
 💡 Notas
-Las imágenes deben estar en la carpeta imagenes/ con nombres idénticos a los productos del CSV (.jpg).
+Las imágenes deben estar en la carpeta imagenes/ con nombres idénticos a los productos (.jpg).
 
 
 📌 Fuente de los datos
