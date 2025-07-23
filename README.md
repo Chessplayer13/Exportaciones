@@ -6,20 +6,13 @@ La animación generada permite observar cómo cambian las participaciones de los
 
 📁 Estructura del repositorio
 
-├── datos/
-│   └── top_10_por_año.csv
-├── imagenes/
-│   └── [Imágenes de productos en formato JPG]
-├── notebooks/
-│   ├── 01_limpieza_exportaciones.ipynb
-│   └── 02_animacion_exportaciones.ipynb
-└── README.md
+<img width="329" height="176" alt="image" src="https://github.com/user-attachments/assets/30dfc534-9b91-47f5-9790-b26102d0d04d" />
 
 
- 1. 01_limpieza_exportaciones.ipynb
+01_limpieza_exportaciones.ipynb
 Este notebook realiza la depuración y transformación de los datos originales de exportaciones, hasta obtener el archivo final top_10_por_año.csv. Este archivo contiene el top 10 de productos exportados por año con su respectiva participación porcentual.
 
- 02_animacion_exportaciones.ipynb
+02_animacion_exportaciones.ipynb
 Este notebook toma como insumo top_10_por_año.csv y genera una animación estilo bar chart race que muestra la evolución anual del top 10 de exportaciones colombianas. Las barras están acompañadas por imágenes ilustrativas de cada producto.
 
 🔧 Requisitos
