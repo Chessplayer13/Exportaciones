@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo visualizar la evolución del top 10 de product
 La animación generada permite observar cómo cambian las participaciones de los principales productos a lo largo del tiempo, mostrando dinámicas que pueden estar influenciadas por factores como el precio internacional, el volumen exportado o la aparición de nuevos productos.
 
 📁 Estructura del repositorio
-.
+
 ├── datos/
 │   └── top_10_por_año.csv
 ├── imagenes/
@@ -14,6 +14,7 @@ La animación generada permite observar cómo cambian las participaciones de los
 │   ├── 01_limpieza_exportaciones.ipynb
 │   └── 02_animacion_exportaciones.ipynb
 └── README.md
+
 
  1. 01_limpieza_exportaciones.ipynb
 Este notebook realiza la depuración y transformación de los datos originales de exportaciones, hasta obtener el archivo final top_10_por_año.csv. Este archivo contiene el top 10 de productos exportados por año con su respectiva participación porcentual.
