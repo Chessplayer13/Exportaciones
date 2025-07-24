@@ -26,7 +26,7 @@ Se compone de dos notebooks principales:
 **Tareas principales que realiza:**
 
 - Lectura de los datos originales desde carpetas anuales organizadas dentro de un directorio principal.
-- Limpieza de columnas clave (por ejemplo: valores FOB, subpartidas arancelarias).
+- Limpieza de columnas clave (por ejemplo: valores FOBDOL, subpartidas arancelarias).
 - Conversión de formatos numéricos (por ejemplo, reemplazo de comas y puntos decimales).
 - Normalización de los códigos de productos (`POSAR6`), asegurando que tengan 10 dígitos (manteniendo ceros a la izquierda).
 - Cálculo del total exportado por subpartida y año.
