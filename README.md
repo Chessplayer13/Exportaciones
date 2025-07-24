@@ -57,6 +57,7 @@ Si más adelante se desean agregar nuevos años de datos (por ejemplo, 2025), es
 - Generación de una animación tipo **"bar chart race"** usando `matplotlib.animation`.
 
 > ⚠️ El archivo `.mp4` de la animación no se incluye en el repositorio, pero el notebook genera todo el contenido necesario para producirlo.
+
 > 💡 Nota: Las imágenes deben estar en la carpeta imagenes/ con nombres idénticos a los productos (.jpg).
 ---
 
