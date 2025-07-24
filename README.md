@@ -35,7 +35,7 @@ Se compone de dos notebooks principales:
 
 📁 **Sobre la estructura de los datos de entrada:**
 
-En el notebook se detalla **de dónde provienen los datos**, cómo están organizadas las carpetas (`data/expo_2015`, `data/expo_2016`, etc.), y cómo se guardaron los archivos intermedios y finales.  
+En el notebook se detalla **de dónde provienen los datos**, cómo están organizadas las carpetas (`Expo_2015`, `Expo_2016`, etc.), y cómo se guardaron los archivos intermedios y finales.  
 Estas rutas pueden verse directamente en las líneas de código donde se usan `pd.read_csv()` y otras operaciones con archivos, lo cual permite comprender el flujo de entrada y salida.
 
 🔁 **Extensibilidad**  
