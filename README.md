@@ -56,6 +56,14 @@ Si más adelante se desean agregar nuevos años de datos (por ejemplo, 2025), es
 - Carga de imágenes personalizadas para los productos, desde la carpeta `/imagenes`, en formato `.jpg`, para enriquecer la visualización.
 - Generación de una animación tipo **"bar chart race"** usando `matplotlib.animation`.
 
+  ✅ Todo lo necesario ya está en el repositorio:
+
+El archivo data/top_10_por_año.csv generado desde el notebook 1 está incluido.
+
+Las imágenes .jpg asociadas a los productos están en la carpeta imagenes/.
+
+Por tanto, no es necesario ejecutar el primer notebook para correr este, salvo que se quieran actualizar los datos o agregar años nuevos.
+
 > ⚠️ El archivo `.mp4` de la animación no se incluye en el repositorio, pero el notebook genera todo el contenido necesario para producirlo.
 
 > 💡 Nota: Las imágenes deben estar en la carpeta imagenes/ con nombres idénticos a los productos (.jpg).
