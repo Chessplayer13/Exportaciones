@@ -59,6 +59,11 @@ Si más adelante se desean agregar nuevos años de datos (por ejemplo, 2025), es
 > ⚠️ El archivo `.mp4` de la animación no se incluye en el repositorio, pero el notebook genera todo el contenido necesario para producirlo.
 
 > 💡 Nota: Las imágenes deben estar en la carpeta imagenes/ con nombres idénticos a los productos (.jpg).
+
+Previsualización
+
+<img width="1365" height="653" alt="Captura de pantalla 2025-07-23 172139" src="https://github.com/user-attachments/assets/f61cd599-b4c4-442a-ae62-7bb339ed8bdb" />
+
 ---
 
 ## ✅ Requisitos
